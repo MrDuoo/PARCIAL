@@ -105,7 +105,7 @@ const items = [
   },
   {
     title: "Sparking Zero",
-    img: "../IMAGES/action4.png",
+    img: "IMAGES/action4.png",
     category: "action",
     favorite: false,
     description:
