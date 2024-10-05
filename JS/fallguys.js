@@ -3,10 +3,10 @@ const ctx = canvas.getContext("2d");
 let isPlaying = false;
 
 const characterImg = new Image();
-characterImg.src = "../IMAGES/character1.gif";
+characterImg.src = "IMAGES/character1.gif";
 
 const backgroundImg = new Image();
-backgroundImg.src = "../IMAGES/fondogame1.png";
+backgroundImg.src = "IMAGES/fondogame1.png";
 
 const character = {
   x: 50,

@@ -1,7 +1,7 @@
 const items = [
   {
     title: "Roblox",
-    img: "../IMAGES/free1.png",
+    img: "IMAGES/free1.png",
     category: "free",
     favorite: false,
     description:
@@ -9,7 +9,7 @@ const items = [
   },
   {
     title: "Fortnite",
-    img: "../IMAGES/action1.png",
+    img: "IMAGES/action1.png",
     category: "action",
     favorite: false,
     description:
@@ -17,7 +17,7 @@ const items = [
   },
   {
     title: "FIFA",
-    img: "../IMAGES/sport1.png",
+    img: "IMAGES/sport1.png",
     category: "sport",
     favorite: false,
     description:
@@ -25,7 +25,7 @@ const items = [
   },
   {
     title: "Rust",
-    img: "../IMAGES/adventure1.png",
+    img: "IMAGES/adventure1.png",
     category: "adventure",
     favorite: false,
     description:
@@ -33,7 +33,7 @@ const items = [
   },
   {
     title: "Clash Royale",
-    img: "../IMAGES/free2.png",
+    img: "IMAGES/free2.png",
     category: "free",
     favorite: false,
     description:
@@ -41,7 +41,7 @@ const items = [
   },
   {
     title: "Among Us",
-    img: "../IMAGES/action2.png",
+    img: "IMAGES/action2.png",
     category: "action",
     favorite: false,
     description:
@@ -49,7 +49,7 @@ const items = [
   },
   {
     title: "World Wrestling Entertainmen",
-    img: "../IMAGES/sport2.png",
+    img: "IMAGES/sport2.png",
     category: "sport",
     favorite: false,
     description:
@@ -57,7 +57,7 @@ const items = [
   },
   {
     title: "Minecraft",
-    img: "../IMAGES/adventure2.png",
+    img: "IMAGES/adventure2.png",
     category: "adventure",
     favorite: false,
     description:
@@ -65,7 +65,7 @@ const items = [
   },
   {
     title: "Fall Guys",
-    img: "../IMAGES/free3.png",
+    img: "IMAGES/free3.png",
     category: "free",
     favorite: false,
     description:
@@ -73,7 +73,7 @@ const items = [
   },
   {
     title: "The Forest",
-    img: "../IMAGES/action3.png",
+    img: "IMAGES/action3.png",
     category: "action",
     favorite: false,
     description:
@@ -81,7 +81,7 @@ const items = [
   },
   {
     title: "Rocket League",
-    img: "../IMAGES/sport3.png",
+    img: "IMAGES/sport3.png",
     category: "sport",
     favorite: false,
     description:
@@ -89,7 +89,7 @@ const items = [
   },
   {
     title: "Lethal Company",
-    img: "../IMAGES/adventure3.png",
+    img: "IMAGES/adventure3.png",
     category: "adventure",
     favorite: false,
     description:
@@ -97,7 +97,7 @@ const items = [
   },
   {
     title: "Plants vs Zombies",
-    img: "../IMAGES/free4.png",
+    img: "IMAGES/free4.png",
     category: "free",
     favorite: false,
     description:
@@ -113,7 +113,7 @@ const items = [
   },
   {
     title: "Cricket",
-    img: "../IMAGES/sport4.png",
+    img: "IMAGES/sport4.png",
     category: "sport",
     favorite: false,
     description:
